@@ -1,0 +1,6 @@
+body {
+  background-color: rgb(247, 185, 70);
+
+  /* leave it to hide the scrollbars */
+  overflow: hidden;
+}

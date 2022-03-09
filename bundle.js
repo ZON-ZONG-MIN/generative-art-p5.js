@@ -1,0 +1,1 @@
+(()=>{console.log(fxhash),console.log(fxrand()),window.$fxhashFeatures={Background:a,"Number of lines":10,Inverted:!0},console.log(window.$fxhashFeatures);const e=document.createElement("div");document.body.prepend(e)})();
