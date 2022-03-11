@@ -1,4 +1,4 @@
-# Z-Institute_NFT &amp; GameFi_Final_Project
+# Z-Institute_NFT &amp; GameFi_Final Project
 created by:
 #Emerson | Z22013001
 #Rufus | Z22013052
