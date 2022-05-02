@@ -1,4 +1,6 @@
-# Z-Institute_NFT &amp; GameFi_Final Project
+# Generative-Token-p5.js
+https://www.fxhash.xyz/gentk/510627
+
 created by:  
 #Emerson | Z22013001  
 #Rufus | Z22013052  
@@ -8,6 +10,3 @@ created by:
 #Andrew | Z22013015  
 #Lydia | Z22013073  
 #DAIDA | Z22013017  
-
-# Generative-Token-p5.js
-https://www.fxhash.xyz/gentk/510627
