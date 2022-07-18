@@ -1,5 +1,5 @@
 # Generative-Token-p5.js
-🔵 Link : https://www.fxhash.xyz/gentk/510627
+🔵 Demo : https://www.fxhash.xyz/gentk/510627
 
 Created by:  
 #Emerson | Z22013001  
